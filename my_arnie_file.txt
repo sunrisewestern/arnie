@@ -3,9 +3,10 @@
 # NB: .gitignore file ignores *.arnie files. Name it as such if you don't want your local path file 
 # included with your git repo.
 
-eternafold: /package/EternaFold/src
+eternafold: /packages/EternaFold/src
+linearfold: /packages/LinearFold/bin
+linearpartition: /packages/LinearPartition/bin
 
-vienna_2: /packages/ViennaRNA/src/bin
 
 #TMP: location for tmp files for packages. Update to where you want your tmp files stored.
 TMP: /tmp
