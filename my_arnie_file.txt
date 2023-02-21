@@ -3,6 +3,21 @@
 # NB: .gitignore file ignores *.arnie files. Name it as such if you don't want your local path file 
 # included with your git repo.
 
+# Vienna RNAfold 2 Mac using installer:
+vienna_2: None
+
+# NUPACK build:
+nupack: None
+
+# CONTRAfold build
+contrafold_2: None
+
+# RNASoft build
+rnasoft: None
+
+# RNAstructure (precompiled command line src)
+rnastructure: None
+
 eternafold: /packages/EternaFold/src
 linearfold: /packages/LinearFold/bin
 linearpartition: /packages/LinearPartition/bin
