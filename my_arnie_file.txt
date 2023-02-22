@@ -4,19 +4,10 @@
 # included with your git repo.
 
 # Vienna RNAfold 2 Mac using installer:
-vienna_2: None
-
-# NUPACK build:
-nupack: None
+vienna_2: /packages/ViennaRNA/bin
 
 # CONTRAfold build
-contrafold_2: None
-
-# RNASoft build
-rnasoft: None
-
-# RNAstructure (precompiled command line src)
-rnastructure: None
+contrafold_2: /packages/contrafold-se/src
 
 eternafold: /packages/EternaFold/src
 linearfold: /packages/LinearFold/bin
